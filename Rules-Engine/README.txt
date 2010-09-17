@@ -1,5 +1,7 @@
 Dynamic Asset Assignment with Rules Engines
 
+This XSLT format will allow you to attach rules to assets in order to have them used by pages instead of having to make assignments at the region level of a page in order to have it consume a particular asset.
+
 1. Metadata - Make a Metadata Set
 
 Set Display Name to inline
